@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henika-patel
 - 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning SQL and Tableou 
+- 🌱 I’m currently learning SQL and Tableau 
 - 📫 How to reach me - henikapatel@hotmail.com 
 - ⚡ Fun fact: ...
 
